@@ -1,0 +1,53 @@
+commit 86ead34fb8f21f6fb22041c122476326f09bbfd3
+Author: Jose Cuevas <cueramjose@gmail.com>
+Date:   Mon May 21 21:22:16 2018 -0500
+
+    Eliminado
+
+commit d23756b1418d7f339121f293a160de435edb9502
+Author: Jose Cuevas <cueramjose@gmail.com>
+Date:   Mon May 21 21:21:43 2018 -0500
+
+    Agregado el viernes
+
+commit 377e548a2e3c03d2fa3f996b767703f48784b5a1
+Author: Jose Cuevas <cueramjose@gmail.com>
+Date:   Mon May 21 21:16:44 2018 -0500
+
+    Parte 3
+
+commit 9fc6fb6be002254bce8561be7ee821277ebd8ee7
+Author: Jose Cuevas <cueramjose@gmail.com>
+Date:   Mon May 21 21:16:11 2018 -0500
+
+    Parte 2
+
+commit f0eca676da0e8056376013135ce6f41067f3ebe6
+Author: Jose Cuevas <cueramjose@gmail.com>
+Date:   Mon May 21 21:15:41 2018 -0500
+
+    Agregado letra
+
+commit 9ffea266e8cd96eb38db09108f0da4af6c34c8a2
+Author: Jose Cuevas <cueramjose@gmail.com>
+Date:   Mon May 21 21:12:38 2018 -0500
+
+    XXX
+
+commit 437d6bcc20ff8ac9557b4ac53e2aed42882b5c5a
+Author: Jose Cuevas <cueramjose@gmail.com>
+Date:   Mon May 21 20:18:48 2018 -0500
+
+    Agregado Archivo C
+
+commit 037bc1fe6783223367e06335b54a00879f367e49
+Author: Jose Cuevas <cueramjose@gmail.com>
+Date:   Mon May 21 20:16:13 2018 -0500
+
+    Agregado PruebaB
+
+commit dcf7c06e3cc9534f44de2c05faf675aa31bf323e
+Author: Jose Cuevas <cueramjose@gmail.com>
+Date:   Mon May 21 19:47:15 2018 -0500
+
+    Commit Inicial
